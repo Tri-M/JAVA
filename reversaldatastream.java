@@ -14,7 +14,6 @@ public class Main {
         {
             rev = rev + Str.charAt(i);
         }
-
         int a = 0;
         char[] str1 = Str.toCharArray();
         char [] str2 = rev.toCharArray();
