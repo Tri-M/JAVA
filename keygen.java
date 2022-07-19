@@ -15,9 +15,7 @@ public class Main {
             temp = n%10;
             s = temp + s;
             n = n / 10;
-
         }
-
         array = new int[s.length()];
 
         for (int i = 0; i < s.length(); i++) {
