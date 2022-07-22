@@ -13,7 +13,7 @@
           mid = (first + last)/2;  
        }  
        if ( first > last ){  
-          System.out.println("element not found");  
+          System.out.println("Element not found");  
        }  
      }  
      public static void main(String args[]){  
