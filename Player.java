@@ -19,7 +19,9 @@ public class Player {
     }
 
     public static void main(String[] args) {
-
+        Player p = new Player();
+        p.setName("Trisha");
+        System.out.println(p.getName());
     }
 }
 
